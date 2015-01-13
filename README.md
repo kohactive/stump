@@ -8,11 +8,10 @@ Stump is a WordPress starting point we use at kohactive. It includes:
 * [Manhattan](https://github.com/kohactive/manhattan/)
 * [Wordmove](https://github.com/welaika/wordmove)
 
+Check out [stump-cli](https://github.com/kohactive/stump-cli) for max win.
+
 ```
-git clone git@github.com:kohactive/stump.git
-cd path/to/project
-rm -rf .git
-git init
+cd path/to/project/wp-content/themes/theme-name
 npm install
 grunt dev
 ```

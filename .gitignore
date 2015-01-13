@@ -1,4 +1,5 @@
 node_modules/
+assets/js/vendor/
 .sass-cache
 main.min.css
 main.min.css.map
@@ -6,4 +7,6 @@ Movefile
 *.sql
 .DS_Store
 site.js
-*.min.js
+**/*.min.js
+wp-config.php
+uploads/
